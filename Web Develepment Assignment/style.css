@@ -1,0 +1,46 @@
+
+body {
+    margin:0;
+    font-family:"Poppins","Segoe UI",sans-serif;
+    color:#ffd700;
+    background-color:#001f3f;
+}
+
+.hero{
+    background-image:url(resources/images/clarinet1.webp);
+    background-size:cover;
+    background-position:cover;
+    height:100vh;
+    position:relative;
+    color:#ffd700
+}
+
+.hero {
+  filter: brightness(0.8);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background: rgba(0, 0, 0, 0.4);
+font-size: 1.8em;
+  font-weight: bold;
+  color: #ffd700;
+}
+
+nav a {
+    margin: 15px;
+    text-decoration:none;
+    color:white;
+    font-weight:500;
+}
+
+main {
+
+}
+
+footer {
+
+}
